@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+.env/
+*.db
+
+# Prefect
+.prefect/
+
+# Data
+data/cleaned_sales.csv

@@ -1,0 +1,6 @@
+order_id,customer_id,amount,country,date
+1001,C001,250,Kenya,2025-10-20
+1002,C002,180,Uganda,2025-10-21
+1003,C003,320,Tanzania,2025-10-21
+1004,C004,150,Rwanda,2025-10-22
+1005,C005,400,Kenya,2025-10-22
