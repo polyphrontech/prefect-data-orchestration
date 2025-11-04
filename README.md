@@ -28,6 +28,7 @@ pip install -r requirements.txt
 ### 3. Run the pipeline
 ```bash
 python src/pipeline.py
+python src/pipeline.py --save-sqlite #use this to create the SQLite table
 ```
 
 You should see Prefect logs showing each task running successfully.
